@@ -1,5 +1,5 @@
 # Songtrend 
-Collects trends in song titles from Soundcloud API.
+Collects trends in song titles from this open API.
  
 ## Getting Started
 Import the project into Eclipse or other preferred IDE and run it as Java Application or Spring Boot App.
