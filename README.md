@@ -15,7 +15,7 @@ The application comes with all the jars included and an embedded database, so no
 * [Gson](https://github.com/google/gson) - Used to serialize/deserialize the data.
 
 ## Author
-* **Geanina Viorela Chiricuta**
+* **Geanina Chiricuta**
 
 ## Additional information
 
