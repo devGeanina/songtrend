@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Mar 22 10:18:21 EET 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0169-a47a-beb7-00000883cfc0 
+on database directory memory:E:\Geanina\songTrendProject\soundtrap.songtrend\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Geanina/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=E:\Geanina\songTrendProject\soundtrap.songtrend
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
