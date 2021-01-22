@@ -16,3 +16,25 @@ The application comes with all the jars included and an embedded database, so no
 
 ## Author
 * **Geanina Viorela Chiricuta**
+
+## Additional information
+
+Provide a REST API that returns a time series for a given word and date range. For example:
+http://localhost:8080/word/?word=love&from=20161231&to=20170101
+
+should return:
+{  
+   "word":"love",
+   "timeSeries":[  
+      {  
+         "date":"20161231",
+         "count":20
+      },
+      {  
+         "date":"20170101",
+         "count":19
+      }
+   ]
+}
+
+It should fetch data daily from the SoundCloud track API and store word counts for all words found in song titles in the database. The API is at https://api.soundcloud.com/tracks?client_id=3a792e628dbaf8054e55f6e134ebe5fa
